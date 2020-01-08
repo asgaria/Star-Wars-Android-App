@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/action_home"
+        android:icon="@drawable/home" />
+
+    <item
+        android:id="@+id/nav_species"
+        android:title="@string/species"
+        android:icon="@drawable/species" />
+
+    <item
+        android:id="@+id/nav_people"
+        android:title="@string/people"
+        android:icon="@drawable/people"
+        />
+
+    <item
+        android:id="@+id/nav_planets"
+        android:title="@string/planets"
+        android:icon="@drawable/planet"
+        />
+    <item
+        android:id="@+id/nav_settings"
+        android:title="@string/setting"
+        android:icon="@drawable/settings"
+        />
+
+</menu>
