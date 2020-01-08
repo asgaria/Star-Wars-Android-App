@@ -6,3 +6,5 @@ Completed in a team.
 * Parsing and Displaying API Data
 * Settings Tab
 
+![Alt text](./screenshot.png?raw=true "Screenshot of Application Workflow")
+
